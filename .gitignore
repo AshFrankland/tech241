@@ -1,0 +1,13 @@
+/tech241_terraform/terraform.tfstate
+/tech241_terraform/terraform.tfstate.backup
+/tech241_terraform/variable.tf
+/tech241_terraform/.terraform
+/tech241_terraform/.terraform.lock.hcl
+/tech241_python/python_game/Con4.py
+/tech241_python/python_game/farkle_scoring.jpeg
+/tech241_python/python_game/test.py
+/tech241_python/s3_buckets
+/Screenshots
+/itjobswatch-app
+/k8s_itapp
+/terraform_vpc
